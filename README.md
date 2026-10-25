@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://www.youtube.com/@excelkeys"><img src="https://img.shields.io/badge/YouTube-@excelkeys-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry"><img src="https://img.shields.io/badge/Email-Info%40exceltutorial.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:info@excelkeys.in?subject=Custom%20Dashboard%20Enquiry"><img src="https://img.shields.io/badge/Email-info%40excelkeys.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.instagram.com/excelkeys/"><img src="https://img.shields.io/badge/Instagram-@excelkeys-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/jitendra-rao/"><img src="https://img.shields.io/badge/LinkedIn-Jitendra_Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
@@ -163,7 +163,7 @@ Filter by category, warehouse and supplier, and adjust the rules behind classes 
 <br/>
 
 <a href="https://www.youtube.com/@excelkeys"><img src="https://img.shields.io/badge/Learn_Excel-YouTube_@excelkeys-FF0000?style=flat-square&logo=youtube&logoColor=white" alt=""/></a>
-<a href="https://exceltutorial.org"><img src="https://img.shields.io/badge/Read-exceltutorial.org-0ea5e9?style=flat-square" alt=""/></a>
+<a href="https://excelkeys.in"><img src="https://img.shields.io/badge/Read-excelkeys.in-0ea5e9?style=flat-square" alt=""/></a>
 <a href="https://demo-projects-dashboard-tools.netlify.app/"><img src="https://img.shields.io/badge/More-Dashboard_Portfolio-f59e0b?style=flat-square" alt=""/></a>
 
 </div>
@@ -180,7 +180,7 @@ Filter by category, warehouse and supplier, and adjust the rules behind classes 
 
 <table>
 <tr>
-<td align="center"><a href="mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry"><b>📩 Email</b><br/>Info@exceltutorial.org</a></td>
+<td align="center"><a href="mailto:info@excelkeys.in?subject=Custom%20Dashboard%20Enquiry"><b>📩 Email</b><br/>info@excelkeys.in</a></td>
 <td align="center"><a href="https://www.instagram.com/excelkeys/"><b>📸 Instagram</b><br/>@excelkeys</a></td>
 <td align="center"><a href="https://www.linkedin.com/in/jitendra-rao/"><b>💼 LinkedIn</b><br/>Jitendra Rao</a></td>
 <td align="center"><a href="https://www.youtube.com/@excelkeys"><b>🎥 YouTube</b><br/>@excelkeys</a></td>
